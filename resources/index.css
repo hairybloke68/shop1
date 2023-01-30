@@ -36,6 +36,31 @@
     margin-right: 30px;
 }
 
+nav {
+    position: relative;
+    top: 100px;
+    color: gold;
+    background-color: black;
+
+}
+
+nav li {
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color:black;
+}
+
 #main {
    position: relative;
    top: 100px;
