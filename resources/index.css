@@ -30,6 +30,11 @@
     text-justify: center;
 }
 
+#info {
+    width: 30%;
+    text-align: end;
+}
+
 #main {
    position: relative;
    top: 100px;
